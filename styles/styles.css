@@ -25,7 +25,7 @@ body{
 header{
     display: flex;
     gap: 5.5rem;
-    height: 7rem;
+    height: 5rem;
     padding: 2rem 4rem;
     background-color: var(--details) ;
     font-weight: 500;
@@ -71,7 +71,7 @@ nav ul{
 }
 
 #heroSection{
-    height: 50rem;
+    height: 55rem;
     background-color: var(--section);
     display: flex;
     flex-direction: row-reverse;
@@ -196,7 +196,7 @@ nav ul{
 
 #action{
     background-color: var(--section);
-    height: 40rem;
+    height: 45rem;
     color: var(--background-color);
     padding: 6rem 12rem;
     display: flex;
